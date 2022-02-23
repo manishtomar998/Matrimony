@@ -1,12 +1,70 @@
 <html>
-    <head>
-        <title>
-            Registration
-        </title>
-    </head>
-    <body>
+
+<head>
+    <title>
+        Registration
+    </title>
+</head>
+
+<body>
+    <form>
         <div>
-            
+            <label for="name">
+                Name
+            </label>
+            <input id="name" type="text" placeholder="please enter" required />
         </div>
-    </body>
+        <div>
+            <label for="gender">
+                Gender
+            </label>
+            <input id="male" type="radio" name="gender" value="male" /> Male
+            <input id="female" type="radio" name="gender" value="female" />Female
+        </div>
+        <div>
+            <label for="age">
+                Age
+            </label>
+            <input id="age" type="number" required />
+        </div>
+        <div>
+            <label for="job">
+                Job profile
+            </label>
+            <input id="job" type="text" required placeholder="please describe" />
+        </div>
+        <div>
+            <label for="contact">
+                Contact number
+            </label>
+            <input id="contact" type="number" placeholder="9876543210" required />
+        </div>
+        <div>
+            <label for="caste">
+                Caste
+            </label>
+            <input id="caste" type="text" placeholder="please enter" required />
+        </div>
+        <div>
+            <label for="locality">
+                Locality
+            </label>
+            <input id="localiy" type="text" placeholder="where you belong" required />
+        </div>
+        <div>
+            <label for="complexion">
+                Complexion
+            </label>
+            <input id="dark" type="radio" value="dark" name="complexion" required />Dark
+            <input id="medium" type="radio" value="medium" name="complexion" required />Medium
+            <input id="white" type="radio" value="white" name="complexion" required />White
+        </div>
+        <div>
+            <button>
+                Register <a href="../index.html"></a>
+            </button>
+        </div>
+    </form>
+</body>
+
 </html>
