@@ -1,0 +1,16 @@
+{
+    "users":[
+        {
+            "name":"Manish Tomar",
+            "id":1,
+            "email":"manishtomar998@gmail.com",
+            "password":"manish"
+        },
+        {
+            "name":"Shubham Pratap",
+            "id":2,
+            "email":"mayankthakur231@gmail.com",
+            "password":"shubham"
+        }
+    ]
+}
