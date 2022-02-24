@@ -7,7 +7,7 @@
 </head>
 
 <body>
-    <form>
+    <form onsubmit="saveData(event)">
         <div>
             <label for="name">
                 Name
@@ -49,7 +49,7 @@
             <label for="locality">
                 Locality
             </label>
-            <input id="localiy" type="text" placeholder="where you belong" required />
+            <input id="locality" type="text" placeholder="where you belong" required />
         </div>
         <div>
             <label for="complexion">
@@ -60,11 +60,12 @@
             <input id="white" type="radio" value="white" name="complexion" required />White
         </div>
         <div>
-            <button>
+            <button type="submit">
                 Register
             </button>
         </div>
     </form>
+    <script src="../JS/registration.js"></script>
 </body>
 
 </html>

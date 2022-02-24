@@ -1,16 +1,19 @@
 {
-    "users":[
-        {
-            "name":"Manish Tomar",
-            "id":1,
-            "email":"manishtomar998@gmail.com",
-            "password":"manish"
-        },
-        {
-            "name":"Shubham Pratap",
-            "id":2,
-            "email":"mayankthakur231@gmail.com",
-            "password":"shubham"
-        }
-    ]
+  "users": [
+    {
+      "name": "Manish Tomar",
+      "gender": "male",
+      "age": "9",
+      "job": "ds",
+      "contact": "4",
+      "caste": "dsfdsf",
+      "locality": "k",
+      "complexion": "dark",
+      "password": "hello",
+      "id": 1
+    }
+  ],
+  "profiles":[
+
+  ]
 }
