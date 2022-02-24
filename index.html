@@ -4,31 +4,34 @@
     <title>
         Login
     </title>
+    <link rel="stylesheet" href="./CSS/index.css" />
 </head>
 
 <body>
     <div>
         <form onsubmit="login(event)">
-            <div>
-                <label for="email">
-                    Email
-                </label>
-                <input id="email" type="email" placeholder="abc@xyz.com" required />
-            </div>
-            <div>
-                <label for="password">
-                    Password
-                </label>
-                <input id="password" type="password" placeholder="******" required />
-            </div>
-            <div>
-                <button type="submit">
-                    Sign in
-                </button>
-            </div>
-            <div>
-                <label>Not a member <a href="./Pages/registration.html">Register</a></label>
-            </div>
+            <fieldset>
+                <div>
+                    <label for="email">
+                        Email
+                    </label>
+                    <input id="email" type="email" placeholder="abc@xyz.com" required />
+                </div>
+                <div>
+                    <label for="password">
+                        Password
+                    </label>
+                    <input id="password" type="password" placeholder="******" required />
+                </div>
+                <div>
+                    <button type="submit">
+                        Sign in
+                    </button>
+                </div>
+                <div>
+                    <label>Not a member <a href="./Pages/registration.html">Register</a></label>
+                </div>
+            </fieldset>
         </form>
     </div>
     <script src="./JS/index.js"></script>

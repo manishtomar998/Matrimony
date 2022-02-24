@@ -1,0 +1,29 @@
+fieldset{
+    width: fit-content;
+    display: flex;
+    flex-direction: column;
+    margin: 5%;
+    background-color: rgb(158, 152, 152);
+}
+form{
+    display: flex;
+    justify-content: center;
+    
+}
+button{
+    margin: 10%;
+    padding: 2% 5% 2% 5%;
+    background-color: mediumaquamarine;
+}
+#email{
+    margin: 10%;
+    padding: 5%;
+}
+#password{
+    margin: 10%;
+    padding: 5%;
+}
+body{
+    background-color: seashell;
+    height: 100vh;
+}

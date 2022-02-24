@@ -8,6 +8,7 @@ let login = (event) => {
         })
     })
 }
+
 let findUser = (res, loginEmail, loginPassword) => {
     let user = res.filter(data => data.email === loginEmail);
     if (user.length == 0) {
@@ -16,7 +17,7 @@ let findUser = (res, loginEmail, loginPassword) => {
         if (user[0].password !== loginPassword) {
             alert("wrong password");
         } else {
-            location.replace("./Pages/home.html");
+            location.replace(`./Pages/home.html?gender=${user[0].gender}&&name=${user[0].name}`);
         }
     }
 

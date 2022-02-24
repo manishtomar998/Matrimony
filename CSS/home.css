@@ -1,0 +1,13 @@
+#like{
+    width: max-content;
+}
+#home{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: space-around;
+}
+.person{
+    margin: 30px;
+    padding: 20px;
+}
