@@ -14,6 +14,62 @@
     }
   ],
   "profiles":[
-
+    {
+      "name":"Shivam",
+      "age":"25",
+      "gender":"male",
+      "image":"https://purepng.com/public/uploads/large/purepng.com-men-in-suitmanpeoplepersonsmalesuit-1121525121426f88dk.png"
+    },
+    {
+      "name":"Nanda",
+      "age":"26",
+      "gender":"male",
+      "image":"https://th.bing.com/th/id/OIP.Qvf9UmzJS1V5YafT9NQZlAHaKL?pid=ImgDet&rs=1"
+    },
+    {
+      "name":"Vaibhav",
+      "age":"26",
+      "gender":"male",
+      "image":"https://th.bing.com/th/id/OIP.Qvf9UmzJS1V5YafT9NQZlAHaKL?pid=ImgDet&rs=1" 
+    },
+    {
+      "name":"Rachit",
+      "age":"26",
+      "gender":"male",
+      "image":"https://purepng.com/public/uploads/large/purepng.com-men-in-suitmanpeoplepersonsmalesuit-1121525121426f88dk.png"
+    },
+    {
+      "name":"Mohit",
+      "age":"24",
+      "gender":"male",
+      "image":"https://th.bing.com/th/id/OIP.Qvf9UmzJS1V5YafT9NQZlAHaKL?pid=ImgDet&rs=1" 
+    },
+    {
+      "name":"Shalini",
+      "age":"21",
+      "gender":"female",
+      "image":"https://th.bing.com/th/id/OIP.J5SC5AytWnMvPbHRMCCRmwHaLf?pid=ImgDet&rs=1"
+    },
+    {
+      "name":"Priya",
+      "age":"22",
+      "gender":"female",
+      "image":"https://th.bing.com/th/id/OIP.dQwLlonI2kzVO5ByHR18cwHaLI?pid=ImgDet&rs=1"
+    },  {
+      "name":"Pooja",
+      "age":"23",
+      "gender":"female",
+      "image":"https://th.bing.com/th/id/OIP.J5SC5AytWnMvPbHRMCCRmwHaLf?pid=ImgDet&rs=1"
+    },  {
+      "name":"Prachi",
+      "age":"25",
+      "gender":"female",
+      "image":"https://th.bing.com/th/id/OIP.dQwLlonI2kzVO5ByHR18cwHaLI?pid=ImgDet&rs=1"
+    },  {
+      "name":"Kritika",
+      "age":"16",
+      "gender":"female",
+      "image":"https://th.bing.com/th/id/OIP.J5SC5AytWnMvPbHRMCCRmwHaLf?pid=ImgDet&rs=1"
+    }
   ]
 }
