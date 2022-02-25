@@ -6,82 +6,144 @@
       "age": "9",
       "job": "ds",
       "contact": "4",
-      "email":"manishtomar998@gmail.com",
+      "email": "manishtomar998@gmail.com",
       "caste": "dsfdsf",
       "locality": "k",
       "complexion": "dark",
       "password": "hello",
       "id": 1
+    },
+    {
+      "name": "Mayank Tomar",
+      "gender": "male",
+      "age": "9",
+      "job": "ds",
+      "contact": "4",
+      "email": "mayank231@gmail.com",
+      "caste": "dsfdsf",
+      "locality": "k",
+      "complexion": "dark",
+      "password": "hello",
+      "id": 2
+    },
+    {
+      "name": "shubham Tomar",
+      "gender": "male",
+      "age": "9",
+      "job": "ds",
+      "contact": "4",
+      "email": "shubham231@gmail.com",
+      "caste": "dsfdsf",
+      "locality": "k",
+      "complexion": "dark",
+      "password": "hello",
+      "id": 2
     }
   ],
-  "profiles":[
+  "profiles": [
     {
-      "name":"Shivam",
-      "age":"25",
-      "gender":"male",
-      "image":"https://purepng.com/public/uploads/large/purepng.com-men-in-suitmanpeoplepersonsmalesuit-1121525121426f88dk.png",
-      "id":1
+      "name": "Shivam",
+      "age": "25",
+      "gender": "male",
+      "image": "https://purepng.com/public/uploads/large/purepng.com-men-in-suitmanpeoplepersonsmalesuit-1121525121426f88dk.png",
+      "id": 1
     },
     {
-      "name":"Nanda",
-      "age":"26",
-      "gender":"male",
-      "image":"https://th.bing.com/th/id/OIP.Qvf9UmzJS1V5YafT9NQZlAHaKL?pid=ImgDet&rs=1",
-      "id":2
+      "name": "Nanda",
+      "age": "26",
+      "gender": "male",
+      "image": "https://th.bing.com/th/id/OIP.Qvf9UmzJS1V5YafT9NQZlAHaKL?pid=ImgDet&rs=1",
+      "id": 2
     },
     {
-      "name":"Vaibhav",
-      "age":"26",
-      "gender":"male",
-      "image":"https://th.bing.com/th/id/OIP.Qvf9UmzJS1V5YafT9NQZlAHaKL?pid=ImgDet&rs=1",
-      "id":3 
+      "name": "Vaibhav",
+      "age": "26",
+      "gender": "male",
+      "image": "https://th.bing.com/th/id/OIP.Qvf9UmzJS1V5YafT9NQZlAHaKL?pid=ImgDet&rs=1",
+      "id": 3
     },
     {
-      "name":"Rachit",
-      "age":"26",
-      "gender":"male",
-      "image":"https://purepng.com/public/uploads/large/purepng.com-men-in-suitmanpeoplepersonsmalesuit-1121525121426f88dk.png",
-      "id":4
+      "name": "Rachit",
+      "age": "26",
+      "gender": "male",
+      "image": "https://purepng.com/public/uploads/large/purepng.com-men-in-suitmanpeoplepersonsmalesuit-1121525121426f88dk.png",
+      "id": 4
     },
     {
-      "name":"Mohit",
-      "age":"24",
-      "gender":"male",
-      "image":"https://th.bing.com/th/id/OIP.Qvf9UmzJS1V5YafT9NQZlAHaKL?pid=ImgDet&rs=1",
-      "id":5
+      "name": "Mohit",
+      "age": "24",
+      "gender": "male",
+      "image": "https://th.bing.com/th/id/OIP.Qvf9UmzJS1V5YafT9NQZlAHaKL?pid=ImgDet&rs=1",
+      "id": 5
     },
     {
-      "name":"Shalini",
-      "age":"21",
-      "gender":"female",
-      "image":"https://th.bing.com/th/id/OIP.J5SC5AytWnMvPbHRMCCRmwHaLf?pid=ImgDet&rs=1",
-      "id":6
+      "name": "Shalini",
+      "age": "21",
+      "gender": "female",
+      "image": "https://th.bing.com/th/id/OIP.J5SC5AytWnMvPbHRMCCRmwHaLf?pid=ImgDet&rs=1",
+      "id": 6
     },
     {
-      "name":"Priya",
-      "age":"22",
-      "gender":"female",
-      "image":"https://th.bing.com/th/id/OIP.dQwLlonI2kzVO5ByHR18cwHaLI?pid=ImgDet&rs=1",
-      "id":7
-    },  {
-      "name":"Pooja",
-      "age":"23",
-      "gender":"female",
-      "image":"https://th.bing.com/th/id/OIP.J5SC5AytWnMvPbHRMCCRmwHaLf?pid=ImgDet&rs=1",
-      "id":8
-    },  {
-      "name":"Prachi",
-      "age":"25",
-      "gender":"female",
-      "image":"https://th.bing.com/th/id/OIP.dQwLlonI2kzVO5ByHR18cwHaLI?pid=ImgDet&rs=1",
-      "id":9
-    },  {
-      "name":"Kritika",
-      "age":"16",
-      "gender":"female",
-      "image":"https://th.bing.com/th/id/OIP.J5SC5AytWnMvPbHRMCCRmwHaLf?pid=ImgDet&rs=1",
-      "id":10
+      "name": "Priya",
+      "age": "22",
+      "gender": "female",
+      "image": "https://th.bing.com/th/id/OIP.dQwLlonI2kzVO5ByHR18cwHaLI?pid=ImgDet&rs=1",
+      "id": 7
+    },
+    {
+      "name": "Pooja",
+      "age": "23",
+      "gender": "female",
+      "image": "https://th.bing.com/th/id/OIP.J5SC5AytWnMvPbHRMCCRmwHaLf?pid=ImgDet&rs=1",
+      "id": 8
+    },
+    {
+      "name": "Prachi",
+      "age": "25",
+      "gender": "female",
+      "image": "https://th.bing.com/th/id/OIP.dQwLlonI2kzVO5ByHR18cwHaLI?pid=ImgDet&rs=1",
+      "id": 9
+    },
+    {
+      "name": "Kritika",
+      "age": "16",
+      "gender": "female",
+      "image": "https://th.bing.com/th/id/OIP.J5SC5AytWnMvPbHRMCCRmwHaLf?pid=ImgDet&rs=1",
+      "id": 10
     }
   ],
-  "wishlist":[]
+  "wishlist": [
+    {
+      "name": "Pooja",
+      "age": "23",
+      "gender": "female",
+      "image": "https://th.bing.com/th/id/OIP.J5SC5AytWnMvPbHRMCCRmwHaLf?pid=ImgDet&rs=1",
+      "id": 8,
+      "addedBy": "Manish"
+    },
+    {
+      "name": "Prachi",
+      "age": "25",
+      "gender": "female",
+      "image": "https://th.bing.com/th/id/OIP.dQwLlonI2kzVO5ByHR18cwHaLI?pid=ImgDet&rs=1",
+      "id": 9,
+      "addedBy": "Mayank"
+    },
+    {
+      "name": "Kritika",
+      "age": "16",
+      "gender": "female",
+      "image": "https://th.bing.com/th/id/OIP.J5SC5AytWnMvPbHRMCCRmwHaLf?pid=ImgDet&rs=1",
+      "id": 10,
+      "addedBy": "Mayank"
+    },
+    {
+      "name": "Shalini",
+      "age": "21",
+      "gender": "female",
+      "image": "https://th.bing.com/th/id/OIP.J5SC5AytWnMvPbHRMCCRmwHaLf?pid=ImgDet&rs=1",
+      "id": 6,
+      "addedBy": "shubham"
+    }
+  ]
 }

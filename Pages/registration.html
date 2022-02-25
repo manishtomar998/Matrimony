@@ -4,66 +4,69 @@
     <title>
         Registration
     </title>
+    <link rel="stylesheet" href="../CSS/registration.css" />
 </head>
 
 <body>
     <form onsubmit="saveData(event)">
-        <div>
-            <label for="name">
-                Name
-            </label>
-            <input id="name" type="text" placeholder="please enter" required />
-        </div>
-        <div>
-            <label for="gender">
-                Gender
-            </label>
-            <input id="male" type="radio" name="gender" value="male" /> Male
-            <input id="female" type="radio" name="gender" value="female" />Female
-        </div>
-        <div>
-            <label for="age">
-                Age
-            </label>
-            <input id="age" type="number" required />
-        </div>
-        <div>
-            <label for="job">
-                Job profile
-            </label>
-            <input id="job" type="text" required placeholder="please describe" />
-        </div>
-        <div>
-            <label for="contact">
-                Contact number
-            </label>
-            <input id="contact" type="number" placeholder="9876543210" required />
-        </div>
-        <div>
-            <label for="caste">
-                Caste
-            </label>
-            <input id="caste" type="text" placeholder="please enter" required />
-        </div>
-        <div>
-            <label for="locality">
-                Locality
-            </label>
-            <input id="locality" type="text" placeholder="where you belong" required />
-        </div>
-        <div>
-            <label for="complexion">
-                Complexion
-            </label>
-            <input id="dark" type="radio" value="dark" name="complexion" required />Dark
-            <input id="medium" type="radio" value="medium" name="complexion" required />Medium
-            <input id="white" type="radio" value="white" name="complexion" required />White
-        </div>
-        <div>
-            <button type="submit">
-                Register
-            </button>
-        </div>
+        <fieldset>
+            <div class="forAll">
+                <label for="name">
+                    Name
+                </label>
+                <input id="name" type="text" placeholder="please enter" required />
+            </div>
+            <div class="forAll">
+                <label for="gender">
+                    Gender
+                </label>
+                <input id="male" type="radio" name="gender" value="male" /> Male
+                <input id="female" type="radio" name="gender" value="female" />Female
+            </div>
+            <div class="forAll">
+                <label for="age">
+                    Age
+                </label>
+                <input id="age" type="number" required />
+            </div>
+            <div class="forAll">
+                <label for="job">
+                    Job profile
+                </label>
+                <input id="job" type="text" required placeholder="please describe" />
+            </div>
+            <div class="forAll">
+                <label for="contact">
+                    Contact number
+                </label>
+                <input id="contact" type="number" placeholder="9876543210" required />
+            </div>
+            <div class="forAll">
+                <label for="caste">
+                    Caste
+                </label>
+                <input id="caste" type="text" placeholder="please enter" required />
+            </div>
+            <div class="forAll">
+                <label for="locality">
+                    Locality
+                </label>
+                <input id="locality" type="text" placeholder="where you belong" required />
+            </div>
+            <div class="forAll">
+                <label for="complexion">
+                    Complexion
+                </label>
+                <input id="dark" type="radio" value="dark" name="complexion" required />Dark
+                <input id="medium" type="radio" value="medium" name="complexion" required />Medium
+                <input id="white" type="radio" value="white" name="complexion" required />White
+            </div>
+            <div>
+                <button id="btn" type="submit">
+                    Register
+                </button>
+            </div>
+        </fieldset>
     </form>
     <script src="../JS/registration.js"></script>
 </body>
